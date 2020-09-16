@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Belajar-docker-Jenkins-Integrations" />
+        <module name="belajar-docker-jenkins-integration" />
       </profile>
     </annotationProcessing>
   </component>
